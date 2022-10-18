@@ -1,3 +1,12 @@
 Hello world👋!  
-I'm Rong. Right now at college & developing Rendevoz!   
-I Know a little about React!
+    
+Who am I?
+
+Undergraduate & Web developer & Gamer player    
+    
+What am I doing?
+
+Developing Rendevoz     
+Trying hard to finish college   
+Playing Apex legends ( JP Server Solo Rank Master! )    
+Learning how to use UE5 to develop game!    

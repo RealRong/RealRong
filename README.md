@@ -1,12 +1,19 @@
-Hello world👋!  
+> Hello world👋!  
     
 Who am I?
 
 Undergraduate & Web developer & Gamer player    
-    
-What am I doing?
 
-Developing Rendevoz     
-Trying hard to finish college   
-Playing Apex legends ( JP Server Solo Rank Master! )    
-Learning how to use UE5 to develop game!    
+What I know?        
+
+- Languages: English & Chinese & a little Japanese        
+- Programming languages: TypeScript & Java & Python       
+- Frameworks: React & Nestjs & Spring & Dapr      
+- More: MongoDb & PostgreSQL & Elasticsearch & Redis & Message queue & K8S & Docker & etc     
+
+What am I doing?        
+
+- Developing Rendevoz     
+- Trying hard to finish college   
+- Playing Apex legends ( JP Server Solo Rank Master! )    
+- Learning how to use UE5 to develop game!    

@@ -15,5 +15,5 @@ What am I doing?
 
 - Developing Rendevoz     
 - Trying hard to finish college   
-- Playing Apex legends ( JP Server Solo Rank Master! )    
+- Playing Games!
 - Learning how to use UE5 to develop game!    
